@@ -1,1 +1,1 @@
-![Alt Text](chrome_dino.gif){ .image125percent }
+![Alt Text](chrome_dino.gif){: width="500" height="500"}
