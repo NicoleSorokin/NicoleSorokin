@@ -3,17 +3,11 @@
 ```js
 function nicole_sorokin() {
   console.log("Hello there! Welcome to my GitHub!");
+
   var graduation_year = 2026;
   const major = "Computer Science";
   const school = "McMaster University";
   var interests = "Artificial Intelligence and Machine Learning";
   var hobbies = "Reading, Cooking, and Gym";
-  return {
-    graduation_year,
-    major,
-    school,
-    interests,
-    hobbies,
-  };
 }
 ```
