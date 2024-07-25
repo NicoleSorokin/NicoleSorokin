@@ -1,1 +1,1 @@
-<img src="chrome_dino.gif" alt="Alt Text" width="500" height="500">
+<img src="chrome_dino.gif" alt="Alt Text" width="100" height="350">
