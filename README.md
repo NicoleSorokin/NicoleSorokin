@@ -1,6 +1,6 @@
 <img src="chrome_dino.gif" alt="Alt Text" width="1000" height="300">
 
-```java
+```js
 public class Main {
     public static void main(String[] args) {
         nicole_sorokin();
