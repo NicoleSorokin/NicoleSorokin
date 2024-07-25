@@ -37,6 +37,8 @@ Here are the technologies I've previously used in my professional experience, pr
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![PyAudio](https://img.shields.io/badge/-PyAudio-4B7F5F?style=for-the-badge&logo=pyaudio&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-8D8D8D?style=for-the-badge&logo=mediapipe&logoColor=white)
+
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
