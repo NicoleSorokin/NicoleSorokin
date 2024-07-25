@@ -2,7 +2,7 @@
 
 ```js
 function nicole_sorokin() {
-  console.log("Hello there! Welcome to my GitHub!");
+  console.log("Hello there, welcome to my GitHub!");
 
   var graduation_year = 2026;
   const major = "Computer Science";
