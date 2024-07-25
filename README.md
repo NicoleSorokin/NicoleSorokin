@@ -7,8 +7,9 @@ function nicole_sorokin() {
   var graduation_year = 2026;
   const major = "Computer Science";
   const school = "McMaster University";
-  var interests = "Artificial Intelligence and Machine Learning";
-  var hobbies = "Reading, Cooking, and Gym";
+  var interests = ['Artificial Intelligence', 'Machine Learning', 'Investing'];
+  var hobbies = ['Reading', 'Cooking', 'Gym'];
+  const languages = ['English', 'French', 'Russian'];
 }
 ```
 
