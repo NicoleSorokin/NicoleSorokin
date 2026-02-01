@@ -8,7 +8,7 @@ function nicole_sorokin() {
   const major = "Computer Science";
   const school = "McMaster University";
   var interests = ['Artificial Intelligence', 'Machine Learning', 'Investing'];
-  var hobbies = ['Reading', 'Cooking', 'Gym'];
+  var hobbies = ['Gym', 'Cooking', 'Reading];
   const languages = ['English', 'French', 'Russian'];
 }
 ```
